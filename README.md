@@ -1,6 +1,6 @@
 # loup-garou-react-js
 
-Johann DE ALMEIDA
+Johann DE ALMEIDA (Johann-gif / nobuuuuuu)
 
 ## · Enjeu du projet
 
