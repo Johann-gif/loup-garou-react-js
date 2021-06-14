@@ -38,3 +38,8 @@
   #stat p {
     text-align: center;
   }
+
+  #chat {
+    border: 1px black solid;
+    clear: left;
+  }
