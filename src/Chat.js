@@ -44,7 +44,7 @@ class Chat extends Component {
         </div>
         <form id="chat-bottom" onSubmit={this.handleSubmit}>
           <input
-            maxLength="42"
+            maxLength="50"
             type="text"
             spellCheck="false"
             id="enter-message"

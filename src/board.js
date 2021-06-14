@@ -1,7 +1,7 @@
 import React from 'react';
 import PropTypes from 'prop-types';
 import './board.css';
-import Chat from './Chat';
+import Chat from './chat';
 
 export class LoupGarouBoard extends React.Component {
   static propTypes = {
