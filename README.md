@@ -33,3 +33,15 @@ Pour lancer le serveur Web permettant au client de se connecter à l'application
 Pour lancer l'application React JS
 
 > `npm start`
+
+## · Abandon de la solution
+
+Abandon de la solution boardgame.io car beaucoup d'inconnues et documentation peu détaillées.
+
+Points de blocage :
+
+- Nombre de joueur (par défault à 2, difficilement changeable)
+- Ordonnancement des phases du jeu
+- Plusieurs joueurs ne peuvent pas jouer au même tour
+
+Impossible d'utiliser la solution pour faire un loup garou en l'état.
